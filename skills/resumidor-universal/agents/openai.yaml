@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resumidor Universal"
+  short_description: "Resume PDFs, Word, textos e codigo com clareza."
+  default_prompt: "Resuma o material enviado destacando objetivo, pontos-chave e acoes."
