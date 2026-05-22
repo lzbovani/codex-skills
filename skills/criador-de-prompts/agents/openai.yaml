@@ -1,0 +1,4 @@
+interface:
+  display_name: "Criador de Prompts"
+  short_description: "Cria prompts eficazes para qualquer assunto"
+  default_prompt: "Atue como engenheiro de prompts e gere prompts claros, completos e adaptados ao objetivo do usuario."

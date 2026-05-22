@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editor de Curriculo"
+  short_description: "Adapta curriculo para vagas especificas"
+  default_prompt: "Atue como especialista em curriculo e ATS para adaptar meu CV a vaga enviada, sem inventar informacoes."
