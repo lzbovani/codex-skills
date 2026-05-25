@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gerador de PPT"
+  short_description: "Cria apresentacoes por tema"
+  default_prompt: "Atue como especialista em apresentacoes e crie um PPT estruturado com base no tema informado."
