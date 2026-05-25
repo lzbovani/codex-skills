@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF para MD"
+  short_description: "Converte PDF em Markdown limpo"
+  default_prompt: "Converta um arquivo PDF para Markdown preservando estrutura e legibilidade."
