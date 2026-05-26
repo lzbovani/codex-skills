@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pesquisador Web"
+  short_description: "Pesquisa profunda com fontes confiaveis"
+  default_prompt: "Realize pesquisa profunda na internet sobre o tema informado e entregue sintese com fontes."
