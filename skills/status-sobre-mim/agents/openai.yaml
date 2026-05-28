@@ -1,0 +1,4 @@
+interface:
+  display_name: "Status Sobre Mim"
+  short_description: "Snapshot do seu perfil para uso em outras IAs"
+  default_prompt: "Gere um snapshot de contexto atualizado sobre mim, separando fatos, inferencias e incertezas com niveis de confianca."
