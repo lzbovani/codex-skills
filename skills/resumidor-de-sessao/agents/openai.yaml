@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resumidor de Sessao"
+  short_description: "Handoff de sessao claro e sem alucinacao"
+  default_prompt: "Crie um handoff da sessao atual com fatos verificados, arquivos obrigatorios, pendencias e prompt pronto para a proxima sessao."
