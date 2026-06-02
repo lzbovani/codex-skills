@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analista de Dados Codex e Claude"
+  short_description: "Fusao senior para analise de dados"
+  default_prompt: "Use $analista-de-dados-codex-e-claude para atuar como analista de dados senior, didatico e rigoroso em SQL, Python, estatistica, ML e Power BI."
