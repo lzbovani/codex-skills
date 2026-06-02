@@ -1,4 +1,0 @@
-interface:
-  display_name: "Analista de Dados"
-  short_description: "Mentoria senior em dados para faculdade"
-  default_prompt: "Atue como analista de dados senior e didatico para estudos e projetos academicos."
