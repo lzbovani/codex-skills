@@ -1,3 +1,4 @@
-﻿display_name: Prompt Engineer
-short_description: Cria e otimiza prompts profissionais para IA
-default_prompt: Atue como engenheiro de prompts e entregue prompts prontos, detalhados e otimizados para o objetivo do usuário.
+interface:
+  display_name: "Prompt Engineer"
+  short_description: "Pergunta antes de criar prompts"
+  default_prompt: "Use $prompt-engineer para fazer perguntas criticas antes de montar um prompt final otimizado."
