@@ -1,4 +1,4 @@
 interface:
   display_name: "Criador de Prompts"
-  short_description: "Cria prompts eficazes para qualquer assunto"
-  default_prompt: "Atue como engenheiro de prompts e gere prompts claros, completos e adaptados ao objetivo do usuario."
+  short_description: "Pergunta antes de criar prompts fortes"
+  default_prompt: "Use $criador-de-prompts para fazer perguntas criticas e depois criar um prompt profissional, completo e adaptado ao objetivo."
